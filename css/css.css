@@ -1,0 +1,82 @@
+.button_1 {
+  width: 150px;
+  height: 50px;
+  background-color: #C6B5F7;
+  border: none;
+  color: #fff;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+button:hover {
+  transform: scale(0.95);
+}
+.overlay {
+  background-color: pink;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+a {
+  display: block;
+  margin-top: 30px;
+}
+
+
+
+.button_2 {
+  width: 150px;
+  height: 50px;
+  background-color: #B5E6F7;
+  border: none;
+  color: #fff;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+button:hover {
+  transform: scale(0.95);
+}
+.overlay {
+  background-color: pink;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+a {
+  display: block;
+  margin-top: 30px;
+}
+
+
+
+.button_3 {
+  width: 150px;
+  height: 50px;
+  background-color: #F7B5E6;
+  border: none;
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+button:hover {
+  transform: scale(0.95);
+}
+.overlay {
+  background-color: pink;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+a {
+  display: block;
+  margin-top: 30px;
+}
+
